@@ -1,0 +1,7 @@
+{
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"python.linting.pep8Enabled": false,
+	"python.jediEnabled": false,
+	"python.globalModuleInstallation": true
+}
